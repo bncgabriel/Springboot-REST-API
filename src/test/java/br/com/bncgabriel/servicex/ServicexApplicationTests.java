@@ -1,4 +1,4 @@
-package br.com.leonardohugo.servicex;
+package br.com.bncgabriel.servicex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
